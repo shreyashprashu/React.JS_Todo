@@ -1,0 +1,33 @@
+.renderList{
+    color:#fff;
+    background-color: #bf07ac;
+    height:50px;
+    margin:20px;
+    border-radius: 5px;
+}
+.renderList p{
+    padding:10px;
+    font-family:'Arial Narrow Bold';
+    position: relative;
+}
+.renderList p button{
+    position:absolute;
+    right: 10px;
+    height:30px;
+    width: 50px;
+    border-radius: 5px;
+    border:0;
+    background-color:rgb(175, 0, 0);
+    cursor:pointer;
+    font-weight: bolder;
+    color: white;
+    outline:none;
+}
+.renderList p input{
+    background-color:transparent;
+    border:0;
+    color:white;
+    font-size:18px;
+    outline:none;
+    font-family:'Arial Narrow Bold';
+}
